@@ -1,15 +1,9 @@
 ## 🔥 Dupree Fuels – Heating Oil Consumption Estimation
-
-**Course**: PROG8521 – Data Modelling II – Analytics  
+ 
 **Project**: Develop a regression-based model to estimate residential heating oil usage  
 **Date**: June 13, 2024  
-**Group Members**:
-- Dhruv Aggarwal  
-- Sheenalyn Dedomo  
-- Sam Joel Francis Punitha Rajan  
-- Limisha Thamattoor Gopi
 
----
+
 
 ## 🚀 Project Objective
 
