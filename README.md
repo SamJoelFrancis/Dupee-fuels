@@ -64,5 +64,8 @@ library(ggplot2)
 library(leaps)
 library(stargazer)
 
-![image](https://github.com/user-attachments/assets/219d5548-b691-4210-9a63-3e1dfabb6514)
+
+
+---
+-![image](https://github.com/user-attachments/assets/219d5548-b691-4210-9a63-3e1dfabb6514)
 
