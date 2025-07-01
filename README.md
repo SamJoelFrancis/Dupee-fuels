@@ -64,8 +64,8 @@ library(ggplot2)
 library(leaps)
 library(stargazer)
 
-
-
 ---
--![image](https://github.com/user-attachments/assets/219d5548-b691-4210-9a63-3e1dfabb6514)
+
+## Power Bi
+-![image](https://github.com/user-attachments/assets/5b93458d-f956-407e-8234-07b92742a119)
 
