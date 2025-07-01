@@ -54,7 +54,8 @@ Dupree Fuels faces challenges in predicting oil consumption for 1,500+ customers
 ![image](https://github.com/user-attachments/assets/e86f8291-2764-4806-9a60-8a3e15a8a054)
 ![image](https://github.com/user-attachments/assets/9cd534db-9273-4299-89e9-75d40e97e7f1)
 ![image](https://github.com/user-attachments/assets/6b540444-4a91-4237-adf7-b189a7915a8f)
-
+## Power Bi
+-![image](https://github.com/user-attachments/assets/5b93458d-f956-407e-8234-07b92742a119)
 ---
 
 ## 📦 Libraries Used
@@ -66,6 +67,5 @@ library(stargazer)
 
 ---
 
-## Power Bi
--![image](https://github.com/user-attachments/assets/5b93458d-f956-407e-8234-07b92742a119)
+
 
